@@ -1,0 +1,42 @@
+.user__info {
+    background-color: #2c343e;
+    width: 1280px;
+    height: 474px;
+    border-radius: 10px;
+    margin-top: 158px;
+
+
+
+    .user__list {
+        display: flex;
+    }
+
+    .user__item {
+        margin-left: 85px;
+        padding-top: 100px;
+    }
+
+    .user__h2 {
+        color: #FEFCF7;
+        font-family: "Fraunces";
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 48px;
+    }
+
+    .user__text {
+        color: #FEFCF7;
+        font-family: "Barlow";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+    }
+
+    .user__img {
+        margin-top: -180px;
+    }
+}
+
+

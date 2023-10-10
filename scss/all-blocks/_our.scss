@@ -1,0 +1,42 @@
+.our__info {
+    margin-top: 190px;
+    margin-left: 85px;
+
+    .our__h2 {
+        color: #83888F;
+        font-family: "Fraunces" ;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 32px; 
+    }
+
+    .our__item {
+        margin-top: 72px;
+        margin-left: -30px;
+    }
+
+    .our__item:nth-child(2) {
+        padding-left: 150px;
+        margin-top: 80px;
+    }
+
+    .our__item:nth-child(3) {
+        padding-left: 150px;
+        margin-top: 80px;
+    }
+
+    .our__heading {
+        width: 272px;
+        color: #333D4B;
+        font-family: "Fraunces" ;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 36px;
+    }
+
+    .our__list {
+        display: flex;
+    }
+}

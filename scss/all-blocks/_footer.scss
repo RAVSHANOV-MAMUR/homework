@@ -1,0 +1,21 @@
+.footer {
+    background-color: #2c343e;
+
+    .footer__link {
+        color: #83888f;
+        text-decoration: none;
+        padding-left: 30px;
+        font-family: "Barlow";
+    }
+
+    .footer__link:hover {
+        color: white;
+    }
+
+    .footer__list {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        list-style: none;
+    }
+}
